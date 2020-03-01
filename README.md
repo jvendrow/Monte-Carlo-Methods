@@ -6,4 +6,4 @@ Algorithms to find a local or global minumum on a graph. Constucts a Markov Chai
 #Monte Carlo Integration
 Basic Monte Carlo algorithm to evaluate discrete integrals by random sampling of values along the desired range. This is supported by the following convergence:
 Given X\_1, X\_2, ... are i.i.d. Uniform[a,b], lim n-\>inf sum 1 to n f(i) /n = integral of f on a, b almost surely
-![Alt text](A8_6_plot.png?raw=true "Title")
+![Alt text](Monte_Carlo_Integration_Statement.png?raw=true "Title")
